@@ -371,11 +371,6 @@ void intro()
 	cout<<"\tMade by:- "<<endl;
 	d(1000);
 	cout<<"\t\tGURJOT SINGH "<<endl;
-	d(1000);
-	cout<<"\t\tGULSHAN SONI "<<endl;
-	d(1000);
-	cout<<"\t\tDRISHTI SINGLA "<<endl;
-	d(1000);
 	cout<<"\t\t\t\t\tWELCOME TO OUR BANKING SYSTEM ";
 	
 
